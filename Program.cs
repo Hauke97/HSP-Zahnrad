@@ -7,6 +7,7 @@ namespace HSP_Zahnrad
         static void Main(string[] args)
         {//hallo
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Zahnrad");
         }
     }
 }
