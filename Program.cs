@@ -15,6 +15,19 @@ namespace Zahnrad2
             Console.WriteLine("Geben Sie die Breite ein");
             double b = Convert.ToDouble(Console.ReadLine());
 
+            double d = Convert.ToDouble(Console.ReadLine());
+            int i = 2
+            double m = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Geben Sie das Kopfspiel ein");
+            double c = Convert.ToDouble(Console.ReadLine());
+            double df = (m + c)
+
+
+
+
+
         }
+
+
     }
 }
